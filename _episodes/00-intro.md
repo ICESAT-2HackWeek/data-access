@@ -1,14 +1,20 @@
 ---
-title: "Basic Data Manipulation"
+title: "Accessing ICESat-2 data from NASA"
 teaching: 15
 exercises: 0
 questions:
-- 'What are the fundamental tools in Python I could use for working with ICESat-2 data?'
-- 'What are the strengths and weaknesses of an array (e.g. numpy) or tabular (e.g. Pandas) data model?'
+- 'How are ICESat-2 data stored by NASA?'
+- 'What formats are the data stored in?'
+- 'How do I gain access to the data?'
+- 'What subsetting and filtering options are available to me when I query the data?'
 objectives:
-- "Learn how to load ICESat-2 data into a Python data object"
-- "Learn to query the data object for basic statistics (count, range, frequency distribution)"
-- "Begin to understand which Python tools and data models will best suit your application"
+- 'Learn the basics of NASA Distributed Active Archive Centers and the Earthdata interface'
+- 'Work with acquiring data through the Earthdata browser'
+- 'Learn what formats are used to store ICESat-2 data'
+- 'Learn the fundamentals of the NSIDC Application Programming Interface (API)'
 keypoints:
-- "numpy, pandas, data filtering, loading data into Python"
+- 'Everyone wishing to work with ICESat-2 data needs and Earthdata login'
+- 'NASA stores and distributes the data in HDF5 format as individual data granules'
+- 'Data acess is possible via a web interface or through an API call'
+- 'The API is capable of spatial and temporal subsetting'
 ---
