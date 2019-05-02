@@ -7,14 +7,14 @@ encoding: utf-8
 kind: "lesson"
 
 # Overall title for pages.
-title: "Machine Learning"
+title: "Geospatial Analysis"
 
 # Repository URL (without trailing slash).
-repo: https://github.com/geohackweek/machine-learning
+repo: https://github.com/icesat-2hackweek/geospatial-analysis
 
 # Root URL below username.github.io domain, with leading slash but no trailing slash.
 # For example, for 'https://geohackweek.github.io/lesson-example', use '/lesson-example'.
-root: "/machine-learning"
+root: "/geospatial-analysis"
 
 # Contact email address.
 email: arendta@uw.edu
@@ -27,8 +27,8 @@ email: arendta@uw.edu
 is_production: true
 
 # Sites.
-ghw_site: "https://geohackweek.github.io"
-ghw_github: "https://github.com/geohackweek"
+ghw_site: "https://icesat-2hackweek.github.io"
+ghw_github: "https://github.com/icesat-2hackweek"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
