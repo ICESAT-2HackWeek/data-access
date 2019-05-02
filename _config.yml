@@ -6,6 +6,12 @@ encoding: utf-8
 # What kind of thing is this ("workshop" or "lesson")?
 kind: "lesson"
 
+# Which hackweek is this?
+hackweek: "icesat-2hackweek"
+
+# What year is this hackweek?
+year: "2019"
+
 # Overall title for pages.
 title: "Geospatial Analysis"
 
@@ -27,8 +33,8 @@ email: arendta@uw.edu
 is_production: true
 
 # Sites.
-ghw_site: "https://icesat-2hackweek.github.io"
-ghw_github: "https://github.com/icesat-2hackweek"
+hw_site: "https://icesat-2hackweek.github.io"
+hw_github: "https://github.com/icesat-2hackweek"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
