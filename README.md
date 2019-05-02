@@ -1,4 +1,4 @@
-# geospatial analysis
+# data access
 
 These are files to build a github website for one of our [icesat-2hackweek](https://icesat-2hackweek.github.io/) tutorials. Github automatically renders these files using Ruby to build the website.
 

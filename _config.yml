@@ -13,14 +13,14 @@ hackweek: "icesat-2hackweek"
 year: "2019"
 
 # Overall title for pages.
-title: "Geospatial Analysis"
+title: "Data Access"
 
 # Repository URL (without trailing slash).
-repo: https://github.com/icesat-2hackweek/geospatial-analysis
+repo: https://github.com/icesat-2hackweek/data-access
 
 # Root URL below username.github.io domain, with leading slash but no trailing slash.
 # For example, for 'https://geohackweek.github.io/lesson-example', use '/lesson-example'.
-root: "/geospatial-analysis"
+root: "/data-access"
 
 # Contact email address.
 email: arendta@uw.edu
