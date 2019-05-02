@@ -74,10 +74,10 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 The templates used to create these lessons were created by [Software
 Carpentry](http://software-carpentry.org/). See AUTHORS for a list of contributors to the template. In accordance with the terms of the
 original license, the changes made are documented in the version control history
-of this repository, and other repositories in [the geohackweek github website][ghw-github].
+of this repository, and other repositories in [the ICESat-2hackweek github website][hw-github].
 
 [cc-by-human]: https://creativecommons.org/licenses/by/4.0/
 [cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode
 [mit-license]: http://opensource.org/licenses/mit-license.html
 [osi]: http://opensource.org
-[ghw-github]: http://github.com/geohackweek
+[hw-github]: http://github.com/icesat-2hackweek
