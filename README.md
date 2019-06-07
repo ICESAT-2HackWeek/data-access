@@ -1,4 +1,4 @@
-### Access and Customize ICESat-2 Data Tutorial
+# Access and Customize ICESat-2 Data Tutorial
 
 ## Presenter
 
@@ -6,7 +6,7 @@ Amy Steiker, National Snow and Ice Data Center Distributed Active Archive Center
 
 ## Authors
 
-Amy Steiker, National Snow and Ice Data Center Distributed Active Archive Center (NSIDC DAAC)
+Amy Steiker, National Snow and Ice Data Center Distributed Active Archive Center (NSIDC DAAC) </br>
 Bruce Wallin, National Snow and Ice Data Center Distributed Active Archive Center (NSIDC DAAC)
 
 ## Summary
