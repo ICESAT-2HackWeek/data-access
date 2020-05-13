@@ -1,20 +1,22 @@
-# Access and Customize ICESat-2 Data Tutorial
+# Access and Customize ICESat-2 Data Tutorials
 
-## Presenter
 
+## Presenters
+
+Jessica Scheick, University of Maine, lead `icepyx` developer
 Amy Steiker, National Snow and Ice Data Center Distributed Active Archive Center (NSIDC DAAC)
 
 ## Authors
 
-Amy Steiker, National Snow and Ice Data Center Distributed Active Archive Center (NSIDC DAAC) </br>
-Bruce Wallin, National Snow and Ice Data Center Distributed Active Archive Center (NSIDC DAAC)
+Jessica Scheick, University of Maine, lead `icepyx` developer
+Amy Steiker, National Snow and Ice Data Center Distributed Active Archive Center (NSIDC DAAC)
 
 ## Summary
 
-This tutorial will walk you though how to access ICESat-2 data at the NASA National Snow and Ice Data Center Distributed Active Archive Center (NSIDC DAAC) using spatial and temporal filters, as well as how to request customization services including subsetting and reformatting using an Application Programming Interface, or API. The tutorial includes an example KML of Pine Island Glacier that will be used to filter and subset against when requesting "ATLAS/ICESat-2 L3A Land Ice Height, Version 001" (ATL06) data. 
+This tutorial will walk you though how to programmatically access ICESat-2 data at the NASA National Snow and Ice Data Center Distributed Active Archive Center (NSIDC DAAC) using the [`icepyx`](https://github.com/icesat2py/icepyx) Python library. Access parameters include spatial and temporal filters, as well as customization services including subsetting and reformatting.
 
 ## Key Learning Objectives
 
-1. Become familiar with NSIDC resources, including user support documents and data access options
-2. Become familiar with the ICESat-2 customization services provided by NSIDC, including subsetting and reformatting
-3. Learn how to build a data access request using NSIDC's Application Programming Interface (API).
+1. Become familiar with ICESat-2 data access methods, emphasizing programmatic access to NSIDC resources.
+2. Become familiar with the `icepyx` library, which provides a wrapper to NSIDC's Application Programming Interface (API).
+3. Create an icesat2data object (the primary class of `icepyx`) and use it to search, order, and download ICESat-2 data.
